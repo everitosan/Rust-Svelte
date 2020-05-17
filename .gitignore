@@ -1,0 +1,6 @@
+/target
+
+/front/node_modules/
+/front/public/build/
+
+.DS_Store
