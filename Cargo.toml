@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 web-view = { version = "0.5.4" }
+regex = "1"
+image-base64 = "0.1"
